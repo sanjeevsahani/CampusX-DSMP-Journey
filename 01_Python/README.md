@@ -25,8 +25,8 @@
 
 | Day | Type | Progress |
 |-----|------|----------|
-| Day 01 | Lecture | Started — print function, variables, data types |
-| Day 02 | Lecture | |
+| Day 01 | Lecture | Started — Print, Input & Output Data Types |
+| Day 02 | Lecture | Data Types, Variables |
 | Day 03 | Task | |
 
 ---
@@ -35,8 +35,9 @@
 
 | File | Type | Topic |
 |------|------|-------|
-| `python_day01.ipynb` | Lecture | Print, Data Types, Variables |
-| `python_day01_task.ipynb` | Task | Day 01 Problems |
+| `python_day01.ipynb` | Lecture | Print, Input & Output Data Types |
+| `python_day02.ipynb` | Lecture | Data Types, Variables |
+| `python_day03_task.ipynb` | Task | Day 01 + 02 Problems |
 
 ---
 

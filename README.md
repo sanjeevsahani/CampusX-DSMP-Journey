@@ -40,7 +40,7 @@ All pushed here publicly as part of **#LearningInPublic**.
 
 | # | Module | Status | Notebooks |
 |---|--------|--------|-----------|
-| 01 | Python Basics | 🔄 In Progress | [View](./01_Python/) |
+| 01 | Python | 🔄 In Progress | [View](./01_Python/) |
 | 02 | NumPy | ⏳ Upcoming | [View](./02_NumPy/) |
 | 03 | Pandas | ⏳ Upcoming | [View](./03_Pandas/) |
 | 04 | Data Visualization | ⏳ Upcoming | [View](./04_Data_Visualization/) |
@@ -56,24 +56,37 @@ All pushed here publicly as part of **#LearningInPublic**.
 
 ---
 
-## 🛠️ Tools Used
+<h2 align="center">🛠️ Tools Used</h2>
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
-![Colab](https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab)
-![NumPy](https://img.shields.io/badge/NumPy-grey?logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-grey?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-grey?logo=scikit-learn)
-![MySQL](https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql)
-![Git](https://img.shields.io/badge/Git-GitHub-black?logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" />
+  <img src="https://img.shields.io/badge/Google-Colab-orange?logo=googlecolab" />
+  <img src="https://img.shields.io/badge/NumPy-grey?logo=numpy" />
+  <img src="https://img.shields.io/badge/Pandas-grey?logo=pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-grey?logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?logo=mysql" />
+  <img src="https://img.shields.io/badge/Git-GitHub-black?logo=github" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">🌐 Connect With Me</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Sahani-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/sanjeevkumarsahani)
-[![GitHub](https://img.shields.io/badge/GitHub-sanjeevsahani-black?style=flat&logo=github)](https://github.com/sanjeevsahani)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanjeevkumarsahani">
+    <img src="https://img.shields.io/badge/LinkedIn-Sanjeev%20Kumar%20Sahani-0077B5?style=flat&logo=linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sanjeevsahani">
+    <img src="https://img.shields.io/badge/GitHub-sanjeevsahani-black?style=flat&logo=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/sanjeevkumarsahani">
+    <img src="https://img.shields.io/badge/Kaggle-sanjeevkumarsahani-20BEFF?style=flat&logo=kaggle" />
+  </a>
+</p>
 
-📌 **#100DaysOfCode · #LearningInPublic · #DataScience · #CampusX**
+<p align="center">📌 <strong>#100DaysOfCode · #LearningInPublic · #DataScience · #CampusX</strong></p>
 
 ---
 

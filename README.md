@@ -38,30 +38,21 @@ All pushed here publicly as part of **#LearningInPublic**.
 
 ## 📈 Progress Tracker
 
-| # | Module | Weeks | Status | Notebooks |
-|---|--------|-------|--------|-----------|
-| 01 | Python Basics | 1–4 | 🔄 In Progress | [View](./01_Python/) |
-| 02 | NumPy | 5 | ⏳ Upcoming | [View](./02_NumPy/) |
-| 03 | Pandas | 6–8 | ⏳ Upcoming | [View](./03_Pandas/) |
-| 04 | Data Visualization | 9–10 | ⏳ Upcoming | [View](./04_Data_Visualization/) |
-| 05 | Data Analysis | 11–12 | ⏳ Upcoming | [View](./05_Data_Analysis/) |
-| 06 | SQL | 13–16 | ⏳ Upcoming | [View](./06_SQL/) |
-| 07 | Statistics | 17–21 | ⏳ Upcoming | [View](./07_Statistics/) |
-| 08 | Linear Algebra | 22 | ⏳ Upcoming | [View](./08_Linear_Algebra/) |
-| 09 | Machine Learning | 23–36 | ⏳ Upcoming | [View](./09_Machine_Learning/) |
-| 10 | MLOps | Extra | ⏳ Upcoming | [View](./10_MLOps/) |
-| 11 | Capstone Project | Final | ⏳ Upcoming | [View](./11_Capstone_Project/) |
+| # | Module | Status | Notebooks |
+|---|--------|--------|-----------|
+| 01 | Python Basics | 🔄 In Progress | [View](./01_Python/) |
+| 02 | NumPy | ⏳ Upcoming | [View](./02_NumPy/) |
+| 03 | Pandas | ⏳ Upcoming | [View](./03_Pandas/) |
+| 04 | Data Visualization | ⏳ Upcoming | [View](./04_Data_Visualization/) |
+| 05 | Data Analysis | ⏳ Upcoming | [View](./05_Data_Analysis/) |
+| 06 | SQL | ⏳ Upcoming | [View](./06_SQL/) |
+| 07 | Statistics | ⏳ Upcoming | [View](./07_Statistics/) |
+| 08 | Linear Algebra | ⏳ Upcoming | [View](./08_Linear_Algebra/) |
+| 09 | Machine Learning | ⏳ Upcoming | [View](./09_Machine_Learning/) |
+| 10 | MLOps | ⏳ Upcoming | [View](./10_MLOps/) |
+| 11 | Capstone Project | ⏳ Upcoming | [View](./11_Capstone_Project/) |
 
-> ✅ Done · 🔄 In Progress · ⏳ Upcoming
-
----
-
-## 📓 Notebook Naming Convention
-
-| Type | Format | Example |
-|------|--------|---------|
-| Lecture | `topic_dayXX.ipynb` | `python_day01.ipynb` |
-| Task | `topic_dayXX_task.ipynb` | `python_day01_task.ipynb` |
+> ✅ Done &nbsp;·&nbsp; 🔄 In Progress &nbsp;·&nbsp; ⏳ Upcoming
 
 ---
 

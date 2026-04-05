@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Program-DSMP%20by%20CampusX-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Language-Python-yellow?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Tools-Google%20Colab-orange?style=flat-square&logo=googlecolab" />
+  <img src="https://img.shields.io/badge/Started-April%202026-purple?style=flat-square" />
 </p>
 
 ---
@@ -25,14 +26,32 @@ All pushed here publicly as part of **#LearningInPublic**.
 | | |
 |---|---|
 | **Name** | Sanjeev Kumar Sahani |
-| **College** | Jananayak Chandrashekhar University, Ballia, UP |
+| **College** | Jananayak Chandrashekhar University, Ballia |
 | **Degree** | BCA-AI |
 | **Started DSMP** | April 2026 |
-| **Goal** | Become a job-ready Data Scientist |
+| **Target** | Job-ready Data Scientist by end-2027 |
+| **LinkedIn** | [sanjeevkumarsahani](https://www.linkedin.com/in/sanjeevkumarsahani) |
+| **Kaggle** | [sanjeevkumarsahani](https://www.kaggle.com/sanjeevkumarsahani) |
 
 ---
 
 ## 📁 Repository Structure
+```
+📦 CampusX-DSMP-Journey
+│
+├── 01_Python/               ← Sessions 1–12
+├── 02_NumPy/                ← Sessions 13–15
+├── 03_Pandas/               ← Sessions 16–22
+├── 04_Data_Visualization/   ← Sessions 23–26
+├── 05_Data_Analysis/        ← Sessions 27–29
+├── 06_SQL/                  ← Sessions 30–37
+├── 07_Statistics/           ← Sessions 38–46
+├── 08_Linear_Algebra/       ← Linear Algebra Sessions
+├── 09_Machine_Learning/     ← Sessions 48–55+
+├── 10_MLOps/                ← MLOps Module
+├── 11_Capstone_Project/     ← Final Project
+└── resources/               ← Notes and references
+```
 
 ---
 

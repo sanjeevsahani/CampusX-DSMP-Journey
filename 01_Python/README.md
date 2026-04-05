@@ -28,7 +28,7 @@
 
 | Day | Session | Type | Progress |
 |-----|---------|------|----------|
-| Day 01 | Session 01 | Lecture | Print function, data types — in progress |
+| Day 01 | Session 01 | Lecture | Print function, data types, variables, comments — in progress |
 
 ---
 

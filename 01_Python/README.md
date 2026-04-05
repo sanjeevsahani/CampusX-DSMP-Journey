@@ -36,7 +36,7 @@
 
 | File | Session | Type | Topic |
 |------|---------|------|-------|
-| `s01_lecture.ipynb` | Session 01 | Lecture | Print, Data Types, Variables, Keywords |
+| `s01_lecture.ipynb` | Session 01 | Lecture | Print function, data types, variables, comments |
 
 ---
 

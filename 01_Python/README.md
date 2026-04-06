@@ -24,11 +24,31 @@
 
 ---
 
+## ✅ Session Status
+
+- [x] Session 01 — Python Basics
+- [ ] Session 02 — Operators + Loops
+- [ ] Session 03 — Strings, Break/Continue/Pass
+- [ ] Session 04 — Lists
+- [ ] Session 05 — Tuples, Sets, Dictionary
+- [ ] Session 06 — Functions
+- [ ] Session 07 — OOP Part 1
+- [ ] Session 08 — OOP Part 2
+- [ ] Session 09 — OOP Part 3 + Abstraction
+- [ ] Session 10 — File Handling
+- [ ] Session 11 — Exception Handling
+- [ ] Session 12 — Decorators & Namespaces
+- [ ] Time Complexity
+- [ ] Interview Questions
+
+---
+
 ## 📅 Daily Log
 
 | Day | Session | Type | Progress |
 |-----|---------|------|----------|
 | Day 01 | Session 01 | Lecture | Print function, data types, variables, comments — in progress |
+| Day 02 | Session 01 | Lecture | Keywords, user input, type conversion, literals — complete |
 
 ---
 
@@ -36,7 +56,7 @@
 
 | File | Session | Type | Topic |
 |------|---------|------|-------|
-| `s01_lecture.ipynb` | Session 01 | Lecture | Print function, data types, variables, comments |
+| `s01_lecture.ipynb` | Session 01 | Lecture | Print, Data Types, Variables, Keywords, User Input, Type Conversion, Literals |
 
 ---
 

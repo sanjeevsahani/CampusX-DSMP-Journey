@@ -50,6 +50,7 @@
 | Day 01 | Session 01 | Lecture | Print function, data types, variables, comments — in progress |
 | Day 02 | Session 01 | Lecture | Keywords, user input, type conversion, literals — complete |
 | Day 03 | Session 01 | Task | Task completed — 10/10 problems solved |
+| Day 04 | Session 02 | Lecture | Operators, if-else — in progress |
 
 ---
 
@@ -59,6 +60,7 @@
 |------|---------|------|-------|
 | `s01_lecture.ipynb` | Session 01 | Lecture | Print, Data Types, Variables, Keywords, User Input, Type Conversion, Literals |
 | `s01_task.ipynb` | Session 01 | Task | Session 01 Problems — 10 questions |
+| `s02_lecture.ipynb` | Session 02 | Lecture | Operators, if-else |
 
 ---
 

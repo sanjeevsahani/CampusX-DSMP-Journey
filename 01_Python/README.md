@@ -52,6 +52,7 @@
 | Day 03 | Session 01 | Task | Task completed — 10/10 problems solved |
 | Day 04 | Session 02 | Lecture | Operators, if-else — in progress |
 | Day 05 | Session 02 | Lecture | Modules, while loop, for loop — complete |
+| Day 06 | Session 02 | Task | Task completed — 10/10 problems solved |
 
 ---
 
@@ -62,6 +63,7 @@
 | `s01_lecture.ipynb` | Session 01 | Lecture | Print, Data Types, Variables, Keywords, User Input, Type Conversion, Literals |
 | `s01_task.ipynb` | Session 01 | Task | Session 01 Problems — 10 questions |
 | `s02_lecture.ipynb` | Session 02 | Lecture | Operators, if-else, Modules, While Loop, For Loop |
+| `s02_task.ipynb` | Session 02 | Task | Session 02 Problems — 10 questions |
 
 ---
 

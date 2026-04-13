@@ -28,7 +28,7 @@
 
 - [x] Session 01 — Python Basics
 - [x] Session 02 — Operators, if-else, Loops
-- [ ] Session 03 — Strings, Break/Continue/Pass
+- [x] Session 03 — Strings, Break/Continue/Pass
 - [ ] Session 04 — Lists
 - [ ] Session 05 — Tuples, Sets, Dictionary
 - [ ] Session 06 — Functions
@@ -54,6 +54,7 @@
 | Day 05 | Session 02 | Lecture | Modules, while loop, for loop — complete |
 | Day 06 | Session 02 | Task | Task completed — 10/10 problems solved |
 | Day 07 | Session 03 | Lecture | Nested loops, break/continue/pass, strings — in progress |
+| Day 08 | Session 03 | Lecture | String functions, programs — complete |
 
 ---
 
@@ -65,7 +66,7 @@
 | `s01_task.ipynb` | Session 01 | Task | Session 01 Problems — 10 questions |
 | `s02_lecture.ipynb` | Session 02 | Lecture | Operators, if-else, Modules, While Loop, For Loop |
 | `s02_task.ipynb` | Session 02 | Task | Session 02 Problems — 10 questions |
-| `s03_lecture.ipynb` | Session 03 | Lecture | Nested Loops, Loop Control, Strings |
+| `s03_lecture.ipynb` | Session 03 | Lecture | Nested Loops, Loop Control, Strings, String Functions |
 
 ---
 

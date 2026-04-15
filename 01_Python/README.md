@@ -56,6 +56,7 @@
 | Day 07 | Session 03 | Lecture | Nested loops, break/continue/pass, strings — in progress |
 | Day 08 | Session 03 | Lecture | String functions, programs — complete |
 | Day 09 | Session 03 | Task | Task completed — 19/19 problems solved |
+| Day 10 | Session 04 | Lecture | Lists — intro, creating, accessing, adding, updating, deleting — in progress |
 
 ---
 
@@ -69,6 +70,7 @@
 | `s02_task.ipynb` | Session 02 | Task | Session 02 Problems — 10 questions |
 | `s03_lecture.ipynb` | Session 03 | Lecture | Nested Loops, Loop Control, Strings, String Functions |
 | `s03_task.ipynb` | Session 03 | Task | Session 03 Problems — 19 questions |
+| `s04_lecture.ipynb` | Session 04 | Lecture | Python Lists |
 
 ---
 

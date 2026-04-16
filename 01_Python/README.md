@@ -29,7 +29,7 @@
 - [x] Session 01 — Python Basics
 - [x] Session 02 — Operators, if-else, Loops
 - [x] Session 03 — Strings, Break/Continue/Pass
-- [ ] Session 04 — Lists
+- [x] Session 04 — Lists
 - [ ] Session 05 — Tuples, Sets, Dictionary
 - [ ] Session 06 — Functions
 - [ ] Session 07 — OOP Part 1
@@ -57,6 +57,7 @@
 | Day 08 | Session 03 | Lecture | String functions, programs — complete |
 | Day 09 | Session 03 | Task | Task completed — 19/19 problems solved |
 | Day 10 | Session 04 | Lecture | Lists — intro, creating, accessing, adding, updating, deleting — in progress |
+| Day 11 | Session 04 | Lecture | List functions, list comprehension, traversal — complete |
 
 ---
 
@@ -70,7 +71,7 @@
 | `s02_task.ipynb` | Session 02 | Task | Session 02 Problems — 10 questions |
 | `s03_lecture.ipynb` | Session 03 | Lecture | Nested Loops, Loop Control, Strings, String Functions |
 | `s03_task.ipynb` | Session 03 | Task | Session 03 Problems — 19 questions |
-| `s04_lecture.ipynb` | Session 04 | Lecture | Python Lists |
+| `s04_lecture.ipynb` | Session 04 | Lecture | Lists — intro, CRUD, functions, comprehension, traversal |
 
 ---
 

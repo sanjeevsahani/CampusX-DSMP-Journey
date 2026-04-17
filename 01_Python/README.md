@@ -58,6 +58,7 @@
 | Day 09 | Session 03 | Task | Task completed — 19/19 problems solved |
 | Day 10 | Session 04 | Lecture | Lists — intro, creating, accessing, adding, updating, deleting — in progress |
 | Day 11 | Session 04 | Lecture | List functions, list comprehension, traversal — complete |
+| Day 12 | Session 04 | Task | Task completed — 15/15 problems solved |
 
 ---
 
@@ -72,6 +73,7 @@
 | `s03_lecture.ipynb` | Session 03 | Lecture | Nested Loops, Loop Control, Strings, String Functions |
 | `s03_task.ipynb` | Session 03 | Task | Session 03 Problems — 19 questions |
 | `s04_lecture.ipynb` | Session 04 | Lecture | Lists — intro, CRUD, functions, comprehension, traversal |
+| `s04_task.ipynb` | Session 04 | Task | Session 04 Problems — 15 questions |
 
 ---
 

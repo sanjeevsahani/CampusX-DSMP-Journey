@@ -30,7 +30,7 @@
 - [x] Session 02 — Operators, if-else, Loops
 - [x] Session 03 — Strings, Break/Continue/Pass
 - [x] Session 04 — Lists
-- [ ] Session 05 — Tuples, Sets, Dictionary
+- [x] Session 05 — Tuples, Sets, Dictionary
 - [ ] Session 06 — Functions
 - [ ] Session 07 — OOP Part 1
 - [ ] Session 08 — OOP Part 2
@@ -60,6 +60,7 @@
 | Day 11 | Session 04 | Lecture | List functions, list comprehension, traversal — complete |
 | Day 12 | Session 04 | Task | Task completed — 15/15 problems solved |
 | Day 13 | Session 05 | Lecture | Tuples, Sets — intro, creating, accessing, adding, deleting — in progress |
+| Day 14 | Session 05 | Lecture | Set operations, frozenset, set comprehension, Dictionary — CRUD, operations, functions, comprehension — complete |
 
 ---
 

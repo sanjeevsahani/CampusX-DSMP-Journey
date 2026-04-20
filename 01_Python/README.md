@@ -60,7 +60,8 @@
 | Day 11 | Session 04 | Lecture | List functions, list comprehension, traversal — complete |
 | Day 12 | Session 04 | Task | Task completed — 15/15 problems solved |
 | Day 13 | Session 05 | Lecture | Tuples, Sets — intro, creating, accessing, adding, deleting — in progress |
-| Day 14 | Session 05 | Lecture | Set operations, frozenset, set comprehension, Dictionary — CRUD, operations, functions, comprehension — complete |
+| Day 14 | Session 05 | Lecture | Set operations, set comprehension, Dictionary — operations, functions, comprehension — complete |
+| Day 15 | Session 05 | Task | Task completed — 14/14 problems solved |
 
 ---
 
@@ -77,6 +78,7 @@
 | `s04_lecture.ipynb` | Session 04 | Lecture | Lists — intro, CRUD, functions, comprehension, traversal |
 | `s04_task.ipynb` | Session 04 | Task | Session 04 Problems — 15 questions |
 | `s05_lecture.ipynb` | Session 05 | Lecture | Tuples, Sets, Dictionary |
+| `s05_task.ipynb` | Session 05 | Task | Session 05 Problems — 14 questions |
 
 ---
 

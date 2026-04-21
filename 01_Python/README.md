@@ -62,6 +62,7 @@
 | Day 13 | Session 05 | Lecture | Tuples, Sets — intro, creating, accessing, adding, deleting — in progress |
 | Day 14 | Session 05 | Lecture | Set operations, set comprehension, Dictionary — operations, functions, comprehension — complete |
 | Day 15 | Session 05 | Task | Task completed — 14/14 problems solved |
+| Day 16 | Session 06 | Lecture | Functions — intro, types of arguments, memory execution, variable scope — in progress |
 
 ---
 
@@ -79,6 +80,7 @@
 | `s04_task.ipynb` | Session 04 | Task | Session 04 Problems — 15 questions |
 | `s05_lecture.ipynb` | Session 05 | Lecture | Tuples, Sets, Dictionary |
 | `s05_task.ipynb` | Session 05 | Task | Session 05 Problems — 14 questions |
+| `s06_lecture.ipynb` | Session 06 | Lecture | Functions |
 
 ---
 

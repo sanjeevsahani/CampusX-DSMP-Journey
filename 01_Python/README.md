@@ -31,7 +31,7 @@
 - [x] Session 03 — Strings, Break/Continue/Pass
 - [x] Session 04 — Lists
 - [x] Session 05 — Tuples, Sets, Dictionary
-- [ ] Session 06 — Functions
+- [x] Session 06 — Functions
 - [ ] Session 07 — OOP Part 1
 - [ ] Session 08 — OOP Part 2
 - [ ] Session 09 — OOP Part 3 + Abstraction
@@ -63,6 +63,7 @@
 | Day 14 | Session 05 | Lecture | Set operations, set comprehension, Dictionary — operations, functions, comprehension — complete |
 | Day 15 | Session 05 | Task | Task completed — 14/14 problems solved |
 | Day 16 | Session 06 | Lecture | Functions — intro, types of arguments, memory execution, variable scope — in progress |
+| Day 17 | Session 06 | Lecture | Functions — lambda, HOF, nested functions, 1st class citizens, map(), filter(), reduce() — complete |
 
 ---
 

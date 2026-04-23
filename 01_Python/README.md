@@ -64,6 +64,7 @@
 | Day 15 | Session 05 | Task | Task completed — 14/14 problems solved |
 | Day 16 | Session 06 | Lecture | Functions — intro, types of arguments, memory execution, variable scope — in progress |
 | Day 17 | Session 06 | Lecture | Functions — lambda, HOF, nested functions, 1st class citizens, map(), filter(), reduce() — complete |
+| Day 18 | Session 06 | Task | Task completed — 15/15 problems solved |
 
 ---
 
@@ -82,6 +83,7 @@
 | `s05_lecture.ipynb` | Session 05 | Lecture | Tuples, Sets, Dictionary |
 | `s05_task.ipynb` | Session 05 | Task | Session 05 Problems — 14 questions |
 | `s06_lecture.ipynb` | Session 06 | Lecture | Functions |
+| `s06_task.ipynb` | Session 06 | Task | Session 06 Problems — 15 questions |
 
 ---
 

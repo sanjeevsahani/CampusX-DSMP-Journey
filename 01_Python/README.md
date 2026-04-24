@@ -20,7 +20,9 @@
 | Session 10 | File Handling, Serialization, JSON, Pickle | `s10_lecture.ipynb` | `s10_task.ipynb` |
 | Session 11 | Exception Handling — try, except, else, finally | `s11_lecture.ipynb` | `s11_task.ipynb` |
 | Session 12 | Decorators, Namespaces, Iterators, Generators | `s12_lecture.ipynb` | `s12_task.ipynb` |
-| Extra | Time Complexity, Interview Questions | `extra_time_complexity.ipynb` | — |
+| Extra | Time Complexity | `time_complexity.ipynb` | — |
+| Extra | Interview Questions | `interview_questions.ipynb` | — |
+
 
 ---
 
@@ -65,6 +67,7 @@
 | Day 16 | Session 06 | Lecture | Functions — intro, types of arguments, memory execution, variable scope — in progress |
 | Day 17 | Session 06 | Lecture | Functions — lambda, HOF, nested functions, 1st class citizens, map(), filter(), reduce() — complete |
 | Day 18 | Session 06 | Task | Task completed — 15/15 problems solved |
+| Day 19 | Session 07 | Lecture | Classes, objects, constructor — in progress |
 
 ---
 
@@ -84,6 +87,7 @@
 | `s05_task.ipynb` | Session 05 | Task | Session 05 Problems — 14 questions |
 | `s06_lecture.ipynb` | Session 06 | Lecture | Functions |
 | `s06_task.ipynb` | Session 06 | Task | Session 06 Problems — 15 questions |
+| `s07_lecture.ipynb` | Session 07 | Lecture | Classes, Objects, Constructor |
 
 ---
 

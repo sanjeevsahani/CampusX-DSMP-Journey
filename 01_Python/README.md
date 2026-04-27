@@ -34,7 +34,7 @@
 - [x] Session 04 — Lists
 - [x] Session 05 — Tuples, Sets, Dictionary
 - [x] Session 06 — Functions
-- [ ] Session 07 — OOP Part 1
+- [x] Session 07 — OOP Part 1
 - [ ] Session 08 — OOP Part 2
 - [ ] Session 09 — OOP Part 3 + Abstraction
 - [ ] Session 10 — File Handling
@@ -68,6 +68,7 @@
 | Day 17 | Session 06 | Lecture | Functions — lambda, HOF, nested functions, 1st class citizens, map(), filter(), reduce() — complete |
 | Day 18 | Session 06 | Task | Task completed — 15/15 problems solved |
 | Day 19 | Session 07 | Lecture | Classes, objects, constructor — in progress |
+| Day 20 | Session 07 | Lecture | Classes, objects, constructor, methods — complete |
 
 ---
 
@@ -88,6 +89,7 @@
 | `s06_lecture.ipynb` | Session 06 | Lecture | Functions |
 | `s06_task.ipynb` | Session 06 | Task | Session 06 Problems — 15 questions |
 | `s07_lecture.ipynb` | Session 07 | Lecture | Classes, Objects, Constructor |
+| `s07_lecture.ipynb` | Session 07 | Lecture | Classes, Objects, Constructor, Methods |
 
 ---
 
